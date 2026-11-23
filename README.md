@@ -1,0 +1,11 @@
+# Airplane Cookie Cutter
+
+An airplane-shaped cookie cutter for the Hack Club BakeBuild mission, designed in Onshape.
+
+- Stick handle with a dome on top, easy to hold
+- Built-in print supports (45° cone under the dome and a support web under the bar) so the handle doesn't break
+- Wall 2 mm, cutting depth 12.7 mm
+
+Model: `airplane-cookie-cutter.step`
+
+![preview](preview.png)
